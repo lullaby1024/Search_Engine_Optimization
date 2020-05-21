@@ -70,5 +70,6 @@ The goal of this project is to provide a solution (a classification model) for o
   - Stratified cross-validation for more representative data
   - Fixing overfitting issues in XGBoost: e.g., early stopping
   - Advanced models such as Light GBM
+- For a detailed walk through of the project with methodology further explained, refer to [Search Engine Relevance Optimization Visual Walkthrough](https://github.com/lullaby1024/Search_Engine_Optimization/blob/master/Search%20Engine%20Relevance%20Optimization%20Visual%20Walkthrough.pdf).
 
 
